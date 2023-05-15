@@ -1,0 +1,14 @@
+.DS_Store
+.env
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+*.egg
+*.egg-info/
+.cache/
+.idea/
+_build/
+.vscode
